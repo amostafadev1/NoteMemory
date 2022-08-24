@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Note Memory</string>
+    <string name="note_text">Note text</string>
+    <string name="note_title">Note title</string>
+    <string name="title_activity_items">ItemsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="new_note">New Note</string>
+    <string name="notes">Notes</string>
+    <string name="courses">Courses</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="course_title">Course title</string>
+    <string name="icon_of_course_list_item">Icon of course list item</string>
+    <string name="how_many">How many</string>
+    <string name="nav_how_many_message_format">Courses = %1$d | Notes = %2$d</string>
+</resources>
